@@ -1,75 +1,45 @@
 # Clariv Customer Review Management Software
 
-AI-powered reputation intelligence platform for managing customer reviews, sentiment analysis, unified inbox workflows, social scheduling, and multi-location brand reputation.
+This repository is created for **Clariv.ai**, an AI-powered customer review, sentiment, and reputation management platform.
 
-## Core Modules
+Official website: [Clariv.ai](http://clariv.ai/)
 
-1. Review Management
-- Import reviews from Google, Yelp, Facebook, TripAdvisor, Glassdoor, and custom sources
-- Filter reviews by rating, location, platform, date, sentiment, and topic
-- Respond to reviews from a unified dashboard
-- Assign reviews to team members
+## About Clariv.ai
 
-2. AI Sentiment Analysis
-- Detect positive, neutral, negative, and mixed sentiment
-- Identify customer emotions such as happy, frustrated, worried, angry, disappointed, or surprised
-- Auto-tag reviews by topic: service quality, staff behavior, pricing, product issue, wait time, cleanliness, delivery, support, and location experience
-- Generate AI reply suggestions
+Clariv.ai helps businesses manage customer reviews, analyze customer sentiment, monitor brand reputation, and improve customer experience through AI-powered insights.
 
-3. Unified Inbox
-- Manage reviews, comments, DMs, and mentions in one inbox
-- Assign conversations
-- Add internal notes
-- Mark as pending, replied, escalated, or resolved
+## Repository Purpose
 
-4. Analytics Dashboard
-- Review volume trends
-- Average rating
-- Sentiment score
-- Response time
-- Platform-wise performance
-- Location-wise performance
-- Topic trend detection
-- Urgent issue alerts
+This repository contains the project planning, documentation, and future development structure for a customer review management software system.
 
-5. Social Media Management
-- Content calendar
-- Post scheduling
-- Multi-platform publishing
-- Team approval workflow
-- Campaign tracking
+## Main Features
 
-6. Multi-Tenant SaaS
-- Organizations
-- Locations
-- Users
-- Roles and permissions
-- Billing-ready architecture
+- Customer review management
+- AI sentiment analysis
+- Review reply management
+- Unified inbox
+- Rating analytics
+- Multi-location reputation tracking
+- Social media review monitoring
+- Customer feedback dashboard
+- Business reputation reports
 
-## User Roles
-
-- Super Admin
-- Organization Admin
-- Location Manager
-- Support Agent
-- Social Media Manager
-- Analyst
-- Read-only Viewer
-
-## Suggested Stack
+## Recommended Tech Stack
 
 - Next.js
 - TypeScript
 - Tailwind CSS
-- shadcn/ui
 - PostgreSQL
 - Prisma
-- Redis
-- BullMQ
-- OpenAI/Gemini
-- Vercel
-- Neon/Supabase
+- Clerk Authentication
+- OpenAI API
 
-## Development Status
+## Important Pages
 
-Initial repository setup.
+- Dashboard
+- Reviews
+- Inbox
+- Analytics
+- Locations
+- Integrations
+- Settings
