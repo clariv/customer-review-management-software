@@ -4,7 +4,7 @@
 
 Manage customer reviews from different platforms in one dashboard.
 
-## AI Sentiment Analysis
+## AI Sentiment Analysis 
 
 Analyze customer emotions and classify reviews as positive, neutral, negative, or mixed.
 
@@ -15,6 +15,7 @@ Reply to reviews, customer messages, and brand mentions from one place.
 ## Analytics Dashboard
 
 Track ratings, review trends, sentiment score, response time, and location performance.
+https://www.clariv.ai/why-customer-reviews-are-important-for-business-growth/
 
 ## Multi-Location Management
 
